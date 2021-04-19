@@ -1,0 +1,22 @@
+[
+	{
+		#conditions : [ ],
+		#ts : 3796284359,
+		#comment : '',
+		#formatVersion : '1.1',
+		#applications : OrderedCollection [
+			{
+				#name : 'SimpleExamplePencilModel',
+				#versionName : '1.0',
+				#ts : 3796281613
+			},
+			{
+				#name : 'SimpleExamplePencilModelTests',
+				#versionName : '1.0',
+				#ts : 3796283309
+			}
+		],
+		#name : 'Developer - Pedro Lentini',
+		#versionName : 'PENCIL - 1.0'
+	}
+]
